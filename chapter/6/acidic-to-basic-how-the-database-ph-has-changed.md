@@ -173,10 +173,10 @@ http://queue.acm.org/detail.cfm?id=1394128
 http://www.dataversity.net/acid-vs-base-the-shifting-ph-of-database-transaction-processing/
 https://neo4j.com/developer/graph-db-vs-nosql/#_navigate_document_stores_with_graph_databases
 https://neo4j.com/blog/aggregate-stores-tour/
-https://en.wikipedia.org/wiki/Eventual_consistency
-https://en.wikipedia.org/wiki/Distributed_transaction
-https://en.wikipedia.org/wiki/Distributed_database
-https://en.wikipedia.org/wiki/ACID
-http://searchstorage.techtarget.com/definition/data-availability
+https://en.wikipedia.org/wiki/Eventual_consistency/
+https://en.wikipedia.org/wiki/Distributed_transaction/
+https://en.wikipedia.org/wiki/Distributed_database/
+https://en.wikipedia.org/wiki/ACID/
+http://searchstorage.techtarget.com/definition/data-availability/
 https://datatechnologytoday.wordpress.com/2013/06/24/defining-database-availability/
 {% bibliography --file rpc %}
